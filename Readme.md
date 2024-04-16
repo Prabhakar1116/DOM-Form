@@ -1,4 +1,4 @@
-This is the readme file for the Form created for the dom task.
+This is the readme file for the DOM Manipulation of Form created for the dom task.
 
 --> This folder consists of
 
