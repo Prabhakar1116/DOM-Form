@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const pincode = document.getElementById("pincode").value;
         const gender = document.querySelector("input[name='gender']:checked").value;
         const foodInputs = document.querySelectorAll("input[name^='food']:checked");
-        const foods = Array.from(foodInputs).map(input => input.value); // Fetching values directly
+        const foods = Array.from(foodInputs).map(input => input.value); 
         const state = document.getElementById("state").value;
         const country = document.getElementById("country").value;
 
